@@ -11,20 +11,20 @@ Visual studio code
 ## Procesamiento de archivos
 
 - ✨Input File✨
-1 + 5
-3 / 6
-a plus b
-21 - 4
-6 ; 1
-2*2
+> 1 + 5
+> 3 / 6
+> a plus b
+> 21 - 4
+> 6 ; 1
+> 2*2
 =
 - ✨Output File✨
-1 + 5 = 6
-3 / 6 = 0.5
-Error
-21 - 4 = 17
-Error
-2 * 2 = 4
+> 1 + 5 = 6
+> 3 / 6 = 0.5
+> Error
+> 21 - 4 = 17
+> Error
+> 2 * 2 = 4
 
 - ✨Explicacion ✨
 
@@ -46,6 +46,13 @@ nums2 = [2,2]
 
 - ✨Output ✨
 Output: [2]
+
+- ✨Input ✨
+nums1 = [4,9,5]
+nums2 = [9,4,9,8,4]
+
+- ✨Output ✨
+Output: [9,4]
 
 > defini dos pares de conjuntos  - Solo imprime elementos unico no toma en cuenta los duplicados
 > Realice la interseccion y tranforme a lista para que se visualice con corchete
