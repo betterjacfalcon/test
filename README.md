@@ -7,24 +7,23 @@ Python
 ```sh
 Visual studio code
 ```
-- 
 ## Procesamiento de archivos
 
 - ✨Input File✨
-> 1 + 5
-> 3 / 6
-> a plus b
-> 21 - 4
-> 6 ; 1
-> 2*2
+> 1 + 5  
+> 3 / 6  
+> a plus b  
+> 21 - 4  
+> 6 ; 1  
+> 2*2  
 =
 - ✨Output File✨
-> 1 + 5 = 6
-> 3 / 6 = 0.5
-> Error
-> 21 - 4 = 17
-> Error
-> 2 * 2 = 4
+> 1 + 5 = 6  
+> 3 / 6 = 0.5  
+> Error  
+> 21 - 4 = 17  
+> Error  
+> 2 * 2 = 4  
 
 - ✨Explicacion ✨
 
