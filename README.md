@@ -35,9 +35,9 @@ Visual studio code
 > verifico si en la linea esta los operadores  
 > genero los casos exitoso y los de error  
 > por ultimo escribo en el archivo output.txt  
-> nombre de la solucion main.py  
-> input file input.txt  
-> output file output.txt  
+> nombre de la solucion **main.py**  
+> input file **input.txt** 
+> output file **output.txt**  
 
 
 ## Interseccion de dos matrices 
@@ -58,7 +58,7 @@ Output: [9,4]
 
 > Creacion de dos pares de conjuntos  - Solo imprime elementos unico no toma en cuenta los duplicados  
 > Realice la interseccion y tranforme a lista para que se visualice con corchete  
-> Imprimi los output 
-> nombre de la solucion arrays_dhl.py  
+> Imprimi los output   
+> nombre de la solucion **arrays_dhl.py**   
 
 
