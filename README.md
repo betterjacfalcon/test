@@ -27,14 +27,14 @@ Visual studio code
 
 - ✨Explicacion ✨
 
-> Parseo linea por linea del archivo input.txt
-> Conte el numero de caracteres por linea
-> para calcular el primer numero creer una condicion donde determino si es un solo caractere verificando los espacios 
-> porque hay un numero de dos digitos
-> para calcular el ultimo numero utilizo size para extraer el utlimo numero
-> verifico si en la linea esta los operadores 
-> genero los casos exitoso y los de error
-> por ultimo escribo en el archivo output.txt
+> Parseo linea por linea del archivo input.txt  
+> Conte el numero de caracteres por linea  
+> para calcular el primer numero creer una condicion donde determino si es un solo caractere verificando los espacios  
+> porque hay un numero de dos digitos  
+> para calcular el ultimo numero utilizo size para extraer el utlimo numero  
+> verifico si en la linea esta los operadores  
+> genero los casos exitoso y los de error  
+> por ultimo escribo en el archivo output.txt  
 
 
 ## Interseccion de dos matrices 
@@ -53,8 +53,8 @@ nums2 = [9,4,9,8,4]
 - ✨Output ✨
 Output: [9,4]
 
-> defini dos pares de conjuntos  - Solo imprime elementos unico no toma en cuenta los duplicados
-> Realice la interseccion y tranforme a lista para que se visualice con corchete
-> Imprimi los output
+> Creacion de dos pares de conjuntos  - Solo imprime elementos unico no toma en cuenta los duplicados  
+> Realice la interseccion y tranforme a lista para que se visualice con corchete  
+> Imprimi los output  
 
 
