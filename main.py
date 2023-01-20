@@ -34,3 +34,5 @@ for i in file.name:
       break
   else:
     f.write(EXCEPTION+'\n')
+  file.close
+  f.close
